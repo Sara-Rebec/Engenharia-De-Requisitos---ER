@@ -6,4 +6,4 @@ Repositório com os materiais, atividades e projetos desenvolvidos durante a dis
 
 ## 📋 Sumário 
 
-- [Unidades 1] (https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/tree/main/Unidade%201)
+- [Unidades 1](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/tree/main/Unidade%201)
