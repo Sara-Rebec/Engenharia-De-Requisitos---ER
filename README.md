@@ -1,6 +1,6 @@
 # 💻 Engenharia de Requisitos 
 
-Repositório com os materiais, atividades e projetos desenvolvidos durante a disciplina de Introdução à Computação — CEUB.
+Repositório com os materiais, atividades e projetos desenvolvidos durante a disciplina de Engenharia de Requisitos — CEUB.
 
 ---
 
