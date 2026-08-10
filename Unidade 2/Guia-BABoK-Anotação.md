@@ -2,7 +2,7 @@
 ## Análise de Negócios (Guia BABOK)
 **Professora:** Kadidja Valéria Reginaldo de Oliveira
 
->  ⭑ **Dica de estudo:** Cada seção abaixo pode ser lida separadamente, em blocos curtos. Não precisa ler tudo de uma vez!
+>  ⭑ **Dica de estudo pra quem tem cabeça de vento:** Cada seção abaixo pode ser lida separadamente, em blocos curtos. Não precisa ler tudo de uma vez!
 
 ---
 
