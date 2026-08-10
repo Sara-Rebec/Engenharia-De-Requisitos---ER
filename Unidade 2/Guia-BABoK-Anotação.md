@@ -69,7 +69,7 @@ Necessidades (AS IS - situação atual) → Requisitos e especificações → So
 
 ---
 
-## 3. Guia BABOK
+## 3. Guia BABOK 
 
 **BABOK** = *Business Analysis Body of Knowledge*
 
@@ -157,7 +157,7 @@ Analista de negócios • Clientes • Especialista no domínio • Usuário fin
 
 Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta → Análise Corporativa, Análise de Requisitos e Avaliação/Validação da Solução trabalham entre si → Gerenciamento e Comunicação de Requisitos registra e comunica tudo.
 
-### 🟠 7.1 Planejamento e Monitoramento da Análise de Negócios
+###  7.1 Planejamento e Monitoramento da Análise de Negócios
 > Coordena e supervisiona as demais áreas.
 
 **Envolve:**
@@ -179,7 +179,7 @@ Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta →
 
 ---
 
-### 🔵 7.2 Elicitação
+###  7.2 Elicitação
 > Planejar, conduzir, documentar e validar requisitos.
 
 **Tarefas:**
@@ -187,11 +187,11 @@ Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta →
 2. Conduzir a atividade de elicitação
 3. Documentar os resultados
 
-> 𝐍+𝓢🧸ྀི Processo **cíclico e iterativo** — quanto mais se entende o negócio, mais se refina o requisito.
+> Processo **cíclico e iterativo** — quanto mais se entende o negócio, mais se refina o requisito.
 
 ---
 
-### 🟣 7.3 Análise Corporativa
+###  7.3 Análise Corporativa
 > Justifica **por que** o esforço de análise está sendo feito.
 
 **Tarefas:**
@@ -205,7 +205,7 @@ Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta →
 
 ---
 
-### 🟢 7.4 Análise de Requisitos
+###  7.4 Análise de Requisitos
 > Prioriza e detalha progressivamente os requisitos.
 
 **Tarefas:**
@@ -218,7 +218,7 @@ Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta →
 
 ---
 
-### 🔴 7.5 Avaliação e Validação da Solução
+###  7.5 Avaliação e Validação da Solução
 > Escolhe a melhor solução e avalia se ela realmente resolve o problema.
 
 **Tarefas:**
@@ -231,7 +231,7 @@ Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta →
 
 ---
 
-### 🟤 7.6 Gerenciamento e Comunicação de Requisitos
+###  7.6 Gerenciamento e Comunicação de Requisitos
 > Garante que requisitos sejam comunicados e reaproveitados.
 
 **Tarefas:**
@@ -260,7 +260,7 @@ Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta →
 
 ## 9. Resumo Visual Final
 
-### ✅ Checklist rápido de revisão
+###  Checklist rápido de revisão
 - [ ] Sei diferenciar Análise de Negócios x Gestão de Projetos x Análise de Sistemas
 - [ ] Sei o que é e o que **não é** o BABOK
 - [ ] Conheço as 3 certificações do IIBA (ECBA, CCBA, CBAP)
@@ -269,7 +269,7 @@ Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta →
 - [ ] Conheço as 6 Áreas de Conhecimento do BABOK
 - [ ] Sei que as Competências Fundamentais dão suporte a tudo
 
-### Mapa mental resumido
+### Mapa mental resumido 𝐍+𝓢🧸ྀི
 BABOK
 - Planejamento e Monitoramento (coordena tudo)
 - Elicitação (coleta)
@@ -280,5 +280,5 @@ BABOK
 - Competências Fundamentais (apoia tudo)
 
 ---
-⋆.ೃ࿔🌸*:･Fonte: Aula 01-Unidade 2 — Engenharia de Requisitos — CEUB — Professora Kadidja Valéria Reginaldo de Oliveira 
+⋆.ೃ࿔🌸*:･Fonte: Aula 01-Unidade 2: Análise de Negócios Guia BABok— Engenharia de Requisitos — CEUB — Professora Kadidja Valéria Reginaldo de Oliveira 
 
