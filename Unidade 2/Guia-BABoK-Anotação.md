@@ -269,7 +269,7 @@ Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta →
 - [ ] Conheço as 6 Áreas de Conhecimento do BABOK
 - [ ] Sei que as Competências Fundamentais dão suporte a tudo
 
-### 🧭 Mapa mental resumido
+### Mapa mental resumido
 BABOK
 - Planejamento e Monitoramento (coordena tudo)
 - Elicitação (coleta)
@@ -280,6 +280,5 @@ BABOK
 - Competências Fundamentais (apoia tudo)
 
 ---
+⋆.ೃ࿔🌸*:･Fonte: Aula 01-Unidade 2 — Engenharia de Requisitos — CEUB — Professora Kadidja Valéria Reginaldo de Oliveira 
 
-⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ **Fonte:** Aula 01-Unidade 2 — Engenharia de Requisitos — CEUB — Professora Kadidja Valéria Reginaldo de Oliveira ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆  
-```
