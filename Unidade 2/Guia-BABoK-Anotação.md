@@ -281,5 +281,5 @@ BABOK
 
 ---
 
-⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ **Fonte:** Aula 01-Unidade 2 — Engenharia de Requisitos — CEUB — Professora Kadidja Valéria Reginaldo de Oliveira ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
+⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ **Fonte:** Aula 01-Unidade 2 — Engenharia de Requisitos — CEUB — Professora Kadidja Valéria Reginaldo de Oliveira ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆  
 ```
