@@ -1,1 +1,285 @@
+# ⋆˚꩜｡ Engenharia de Requisitos — Aula 02 ⋆˚꩜｡
+## Análise de Negócios (Guia BABOK)
+**Professora:** Kadidja Valéria Reginaldo de Oliveira
 
+>  ⭑ **Dica de estudo:** Cada seção abaixo pode ser lida separadamente, em blocos curtos. Não precisa ler tudo de uma vez!
+
+---
+
+## 🕸️๋࣭ ⭑ Índice
+1. [Introdução](#1-introdução)
+2. [O que é Análise de Negócios](#2-o-que-é-análise-de-negócios)
+3. [Guia BABOK](#3-guia-babok)
+4. [Certificações IIBA](#4-certificações-iiba)
+5. [Conceitos-chave](#5-conceitos-chave)
+6. [Níveis de Requisitos](#6-níveis-de-requisitos)
+7. [Áreas de Conhecimento do BABOK](#7-áreas-de-conhecimento-do-babok)
+8. [Competências Fundamentais](#8-competências-fundamentais)
+9. [Resumo Visual Final](#9-resumo-visual-final)
+
+---
+
+## 1. Introdução
+
+### 💗IIBA (International Institute of Business Analysis)
+- Associação **sem fins lucrativos**
+- Objetivo: facilitar o trabalho de profissionais de **Análise de Negócios**
+
+### 🪼⋆.ೃ࿔*:･ Três papéis que aparecem no cenário de TI
+
+| Papel | O que faz |
+|---|---|
+| **Análise de Negócios** | Entende o problema e especifica a melhor solução para garantir retorno do investimento |
+| **Gestão de Projetos** | Garante escopo, prazo e orçamento |
+| **Análise de Sistemas** | Desenvolve a solução tecnológica dentro das restrições do projeto |
+
+### ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ Engenharia de Requisitos (ER)
+Objetivos principais:
+1. Conhecer requisitos, obter consenso entre stakeholders, documentar e gerenciar
+2. Compreender e documentar desejos/necessidades dos stakeholders
+3. Especificar e gerenciar requisitos para **minimizar risco** de entregar algo errado
+
+> Quem trabalha com ER pode atuar como: Especialista de Aplicativos, Analista de Negócios, Product Owner, Líder de Projeto, Engenheiro de Sistemas.
+
+---
+
+## 2. O que é Análise de Negócios
+
+> **Definição (BABOK 2.0):**
+> "Conjunto de atividades e técnicas utilizadas para servir como ligação entre partes interessadas, no intuito de compreender a estrutura, políticas e operações de uma organização e recomendar soluções que permitam alcançar suas metas." — IIBA, 2009
+
+### ✌︎㋡ Conecta
+Necessidades (AS IS - situação atual) → Requisitos e especificações → Solução (TO BE - situação futura)
+
+### ˙ . ꒷🍙 . 𖦹˙— 🐈‍⬛ Papel do Analista de Negócios
+- Elo entre **partes interessadas** e **objetivos organizacionais**
+- Atua como **consultor interno**
+- Investiga sistemas e processos → propõe **melhorias e soluções**
+
+### ⋆.˚🦋༘⋆ 4 aspectos que o Analista deve compreender
+
+| Aspecto | Foco |
+|---|---|
+| **Estratégico** | Orientação, objetivos, macroprocessos |
+| **Operacional** | Políticas e diretrizes da organização |
+| **Processos** | Modelagem de processos, etapas, passos |
+| **Requisitos** | Aspectos técnicos e especificações |
+
+>  **Principal aplicação:** definir e validar soluções que atendam às necessidades, objetivos e metas do negócio.
+
+---
+
+## 3. Guia BABOK
+
+**BABOK** = *Business Analysis Body of Knowledge*
+
+- Publicado pelo **IIBA**
+- Conjunto de **melhores práticas** em Análise de Negócios
+- Organiza tarefas em **Áreas de Conhecimento**
+
+> ˚˖𓍢ִ໋🦢˚ **Atenção — pegadinha comum de prova:**
+> - ❌ NÃO contempla TODAS as técnicas
+> - ❌ NÃO é uma metodologia
+
+### ˙ . ꒷ 🍰 . 𖦹˙— Estrutura do Guia
+- Capítulos 1–8 → Áreas de Conhecimento (Tarefas + Técnicas específicas)
+- Capítulo 9 → 9 Técnicas de uso geral
+
+---
+
+## 4. Certificações IIBA
+
+| Certificação | Nome completo | Perfil | Experiência exigida |
+|---|---|---|---|
+| **ECBA** | Entry Certificate in Business Analysis | Nível inicial | — |
+| **CCBA** | Certification of Capability in Business Analysis | Intermediário | 2–3 anos (3.750h) |
+| **CBAP** | Certified Business Analysis Professional | Avançado | 5+ anos (7.500h) |
+
+>  Processo: aprovação da inscrição (*Application*) → aprovação no exame.
+
+---
+
+## 5. Conceitos-chave
+
+### ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐ Domínio
+Área específica onde a análise é realizada. Pode ser:
+- Uma organização inteira
+- Uma unidade organizacional
+- Clientes / fornecedores
+- A interação entre organização e públicos
+
+### ˙✧˖°📷 ༘ ⋆｡˚ Partes Interessadas (*Stakeholders*)
+Pessoas afetadas direta ou indiretamente pela iniciativa.
+
+**Exemplos comuns:**
+Analista de negócios • Clientes • Especialista no domínio • Usuário final • Desenvolvedor • Gerente de projetos • Testadores • Patrocinador • Fornecedores
+
+### 𖣂 Soluções
+- Conjunto de **mudanças** que atendem a uma necessidade, oportunidade ou problema
+- A solução **ideal ≠ melhor resultado possível** → é a que equilibra resultado + limitações (tempo, orçamento, regras)
+- Escopo da solução é **mais restrito** que o escopo do domínio
+
+**Componentes de solução (exemplos):**
+- Processos remodelados
+- Estrutura organizacional revisada
+- Regras de negócio
+- Sistemas de informação
+- Políticas comerciais
+
+---
+
+## 6. Níveis de Requisitos
+
+> Requisito = sentido amplo: condições, capacidades, estruturas, papéis, processos, políticas, regras, sistemas.
+
+**1. Requisitos do NEGÓCIO** → metas de alto nível, objetivos da organização (desenvolvidos na Análise Corporativa)
+
+**2. Requisitos das PARTES INTERESSADAS** → necessidades específicas dos stakeholders; elo entre negócio e solução (desenvolvidos na Análise de Requisitos)
+
+**3. Requisitos da SOLUÇÃO** (desenvolvidos na Análise de Requisitos)
+- Funcionais → comportamento e funcionalidades
+- Não Funcionais → qualidade (eficiência, velocidade, disponibilidade)
+
+**4. Requisitos de TRANSIÇÃO** → temporários, só para implantar a solução (ex: migração de dados, treinamento) — definidos na Avaliação e Validação
+
+| Nível | Resumo rápido |
+|---|---|
+| Negócio | "Por que fazer isso?" |
+| Partes Interessadas | "O que cada um precisa?" |
+| Solução (Func./Não Func.) | "Como vai funcionar?" |
+| Transição | "Como migrar do atual para o novo?" |
+
+---
+
+## 7. Áreas de Conhecimento do BABOK
+
+> São **6 áreas**, todas apoiadas pelas **Competências Fundamentais** na base.
+
+Fluxo geral: Planejamento e Monitoramento coordena → Elicitação alimenta → Análise Corporativa, Análise de Requisitos e Avaliação/Validação da Solução trabalham entre si → Gerenciamento e Comunicação de Requisitos registra e comunica tudo.
+
+### 🟠 7.1 Planejamento e Monitoramento da Análise de Negócios
+> Coordena e supervisiona as demais áreas.
+
+**Envolve:**
+- Identificar partes interessadas
+- Definir papéis e responsabilidades
+- Planejar comunicação
+- Planejar coleta/priorização de requisitos
+- Definir escopo, entregas e processos
+- Estimar duração/recursos
+- Definir métricas
+
+**Tarefas:**
+1. Planejar a abordagem da AN
+2. Conduzir a análise das partes interessadas
+3. Planejar atividades da AN
+4. Planejar a comunicação da AN
+5. Planejar processo de gerenciamento de requisitos
+6. Gerenciar o desempenho da AN
+
+---
+
+### 🔵 7.2 Elicitação
+> Planejar, conduzir, documentar e validar requisitos.
+
+**Tarefas:**
+1. Preparar a elicitação
+2. Conduzir a atividade de elicitação
+3. Documentar os resultados
+
+> 𝐍+𝓢🧸ྀི Processo **cíclico e iterativo** — quanto mais se entende o negócio, mais se refina o requisito.
+
+---
+
+### 🟣 7.3 Análise Corporativa
+> Justifica **por que** o esforço de análise está sendo feito.
+
+**Tarefas:**
+1. Definir a necessidade do negócio
+2. Avaliar gaps (lacunas) de capacidade
+3. Determinar abordagem da solução
+4. Definir escopo da solução
+5. Definir o *Business Case*
+
+> 🔗 Roda em paralelo aos processos de gerenciamento de projetos (PMBOK).
+
+---
+
+### 🟢 7.4 Análise de Requisitos
+> Prioriza e detalha progressivamente os requisitos.
+
+**Tarefas:**
+1. Priorizar requisitos
+2. Organizar requisitos
+3. Especificar e modelar requisitos
+4. Definir pressupostos e restrições
+5. Verificar requisitos
+6. Validar requisitos
+
+---
+
+### 🔴 7.5 Avaliação e Validação da Solução
+> Escolhe a melhor solução e avalia se ela realmente resolve o problema.
+
+**Tarefas:**
+1. Avaliar solução proposta
+2. Alocar requisitos
+3. Avaliar prontidão organizacional
+4. Definir requisitos de transição
+5. Validar a solução
+6. Avaliar desempenho da solução
+
+---
+
+### 🟤 7.6 Gerenciamento e Comunicação de Requisitos
+> Garante que requisitos sejam comunicados e reaproveitados.
+
+**Tarefas:**
+1. Gerenciar escopo e requisitos da solução
+2. Gerenciar rastreabilidade dos requisitos
+3. Manter requisitos para reutilização
+4. Preparar o pacote de requisitos
+5. Comunicar requisitos
+
+---
+
+## 8. Competências Fundamentais
+
+> Comportamentos e conhecimentos de **apoio**, na base de todo o processo.
+
+| Competência | Inclui |
+|---|---|
+| 🧠 Pensamento analítico | Criatividade, decisão, aprendizado, resolução de problemas |
+| 🤝 Comportamento | Ética, organização pessoal, confiabilidade |
+| 🏭 Conhecimento de negócio | Práticas de negócio, indústria, organização, solução |
+| 🗣️ Comunicação | Verbal, escrita, ensino |
+| 🔄 Interação | Facilitação, negociação, liderança, trabalho em equipe |
+| 💻 Software | Aplicações gerais e especializadas |
+
+---
+
+## 9. Resumo Visual Final
+
+### ✅ Checklist rápido de revisão
+- [ ] Sei diferenciar Análise de Negócios x Gestão de Projetos x Análise de Sistemas
+- [ ] Sei o que é e o que **não é** o BABOK
+- [ ] Conheço as 3 certificações do IIBA (ECBA, CCBA, CBAP)
+- [ ] Entendo os conceitos de Domínio, Partes Interessadas e Solução
+- [ ] Sei listar os 4 níveis de requisitos em ordem
+- [ ] Conheço as 6 Áreas de Conhecimento do BABOK
+- [ ] Sei que as Competências Fundamentais dão suporte a tudo
+
+### 🧭 Mapa mental resumido
+BABOK
+- Planejamento e Monitoramento (coordena tudo)
+- Elicitação (coleta)
+- Análise Corporativa (justifica)
+- Análise de Requisitos (detalha)
+- Avaliação e Validação da Solução (escolhe/valida)
+- Gerenciamento e Comunicação de Requisitos (comunica)
+- Competências Fundamentais (apoia tudo)
+
+---
+
+📚 **Fonte:** Aula 02 — Engenharia de Requisitos — CEUB — Profa. Kadidja Valéria Reginaldo de Oliveira
+```
