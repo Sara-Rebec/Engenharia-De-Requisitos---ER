@@ -1,4 +1,4 @@
-# ପ꒰ ˶• ༝ •˶꒱ଓ 🌸🤍 Engenharia de Requisitos 
+# ⫘⫘⫘⫘⫘⫘ Engenharia de Requisitos ⫘⫘⫘⫘⫘⫘
 
 > Repositório destinado às atividades e projetos desenvolvidos na disciplina de **Engenharia de Requisitos**.
 
@@ -8,13 +8,13 @@
 
 
 
-## 🧸ྀི Objetivo
+## Objetivo ˚.🎀༘⋆
 
 > Organizar e documentar as atividades, trabalhos e projetos realizados durante a disciplina, registrando o aprendizado sobre **levantamento, análise, documentação e validação de requisitos de software**.
 
 ---
 
-## ˖°𓇼🌊⋆🐚🫧 Sumário 
+##  Sumário 🎸⋆⭒˚｡⋆
 
 - ### [Unidade 1](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/tree/main/Unidade%201)
 
