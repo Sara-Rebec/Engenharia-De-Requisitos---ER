@@ -1,4 +1,4 @@
-# ⫘⫘⫘⫘⫘⫘ Engenharia de Requisitos ⫘⫘⫘⫘⫘⫘
+# ⫘⫘⫘⫘ Engenharia de Requisitos ⫘⫘⫘⫘
 
 > Repositório destinado às atividades e projetos desenvolvidos na disciplina de **Engenharia de Requisitos**.
 
