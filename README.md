@@ -30,3 +30,8 @@
  
  [Atividade Prática - Engenharia de Requisitos](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/blob/main/Unidade%203/Atividade_Pr%C3%A1tica_-_Engenharia_de_Requisitos__respondida_2.docx.pdf)
 
+ - ### [Unidade 4](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/tree/main/Unidade%204)
+
+ [Aula 05 - Matriz MoSCoW](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/blob/main/Unidade%204/Aula%2005%20-%20Matriz%20MoSCoW%20(respondida).pdf)
+
+
