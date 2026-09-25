@@ -26,4 +26,7 @@
 
  [Análise de Négocios-Guia BABok](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/blob/main/Unidade%202/Guia-BABoK-Anota%C3%A7%C3%A3o.md)
 
-- ### [Unidade 3](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/tree/main/Unidade%203) 
+- ### [Unidade 3](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/tree/main/Unidade%203)
+ 
+ [Atividade Prática - Engenharia de Requisitos](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/blob/main/Unidade%203/Atividade_Pr%C3%A1tica_-_Engenharia_de_Requisitos__respondida_2.docx.pdf)
+
