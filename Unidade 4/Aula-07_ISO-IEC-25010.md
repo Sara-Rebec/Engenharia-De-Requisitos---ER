@@ -6,7 +6,7 @@
 
 ## Visão geral
 
-| # | Problema | Característica | ⋆.˚✮🎧✮˚.⋆
+| # | Problema | Característica | 
 |---|----------|----------------|
 | 1 | Média com valores incorretos | Adequação funcional |
 | 2 | Página de notas demora 12 s | Desempenho |
