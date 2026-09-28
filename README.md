@@ -34,4 +34,5 @@
 
  [Aula 05 - Matriz MoSCoW](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/blob/main/Unidade%204/Aula%2005%20-%20Matriz%20MoSCoW%20(respondida).pdf)
 
+ [Aula 07_ISO/IEC 25010](https://github.com/Sara-Rebec/Engenharia-De-Requisitos---ER/blob/main/Unidade%204/Aula-07_ISO-IEC-25010.md)
 
