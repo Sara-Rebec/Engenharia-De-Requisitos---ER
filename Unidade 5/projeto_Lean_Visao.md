@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento para Lava-Jato
+# Projeto Lean Canvas - Miro
 
 > Integrantes do grupo: João Pedro Duarte | Henrique Mota Monteiro | Sara Rebeca do Rosario Soares | Marco Antonio Nista Popovidis
 
