@@ -11,7 +11,7 @@ A proposta é centralizar as principais informações do negócio em um único s
 
 # Lean Canvas
 Projeto Disponível em:
-[Mapa Mental Lean Canvas- Miro](https://drive.google.com/drive/folders/13tDpXeFaYg1ez6vCuJVr2X1B-4ZYw8GF?usp=sharing)
+[Mapa Mental Lean Canvas- Miro](https://miro.com/app/board/uXjVHhMIiNw=/?share_link_id=463892042796)
 
 ## Estratégia e Visão de Produto
 
